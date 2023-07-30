@@ -13,7 +13,7 @@ headers = {
     'Connection': 'keep-alive',
 }
 My_df = pd.DataFrame(columns=['Sample_name','COSMIC_sample_ID','Tumour_location','Screening_method','Sample_type','Cell_line_source','Sample_source'])
-os.chdir("C:\\Users\\杨谷婴\\Desktop\\陈帅宇临时工作\\爬虫")
+os.chdir("C:\\Users\\XXX\\Desktop\\XXX\\爬虫")
 cwd = os.getcwd()
 with open('links.csv') as f:
   links = list(csv.reader(f))
