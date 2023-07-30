@@ -8,3 +8,11 @@
 由于细胞系数量较大，我编写了批量爬取的代码，自动处理所有细胞系的链接。这样一来，我能够高效地获取大量数据，为后续预测工作打下了坚实的基础。
 
 经过数据爬取和处理，最终我成功获得了1020个细胞系的详细数据（CSV），包括与疾病相关的信息，这些数据将成为使用oncopredict进行肿瘤药物预测的重要依据。
+
+To utilize oncopredict for tumor drug prediction, I needed to acquire detailed information about all cell lines in the COSMIC database.
+
+I employed Python, along with the requests, lxml, pandas, and BeautifulSoup4 libraries, to scrape the required links for all cell lines.
+
+The links were crawled in bulk, using a batch processing approach, to efficiently gather the data.
+
+In the end, I successfully obtained detailed data on 1020 cell lines, including their associated diseases and other relevant information. These data serve as a crucial foundation for conducting tumor drug prediction with oncopredict.
