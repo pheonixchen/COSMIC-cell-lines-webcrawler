@@ -1,0 +1,9 @@
+样品名字
+<a title="Search for samples with this name" href="https://cancer.sanger.ac.uk/cell_lines/search?q=8305C">
+                8305C</a>
+/html/body/div[1]/div/div[2]/section[1]/div/div/dl/dd[2]/a
+Xpath的COSMIC ID
+/html/body/div/div/div[2]/section[1]/div/div/dl/dd[3]
+/html/body/div[1]/div/div[2]/section[1]/div/div/dl/dd[3]
+Xpath的组织
+/html/body/div[1]/div/div[2]/section[1]/div/div/dl/dd[4]

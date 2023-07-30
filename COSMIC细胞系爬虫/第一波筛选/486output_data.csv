@@ -1,0 +1,3396 @@
+Sample_name,COSMIC_sample_ID,Tumour_location,Screening_method,Sample_type,Cell_line_source,Sample_source
+"
+                H2810",COSS1240137,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                H2818",COSS1290814,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                H2869",COSS1240138,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                H290",COSS1240139,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                H3118",COSS1240140,"
+              Upper aerodigestive tract; Head neck (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                H3255",COSS1247873,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                H4",COSS907042,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                H513",COSS1240141,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                H9",COSS907043,"
+              Haematopoietic and lymphoid; Skin (Lymphoid neoplasm; Mycosis fungoides-Sezary syndrome)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HA7-RCC",COSS753558,"
+              Kidney (Carcinoma; Clear cell renal cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HAL-01",COSS949153,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HARA",COSS1240142,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HC-1",COSS907044,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Hairy cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC-15",COSS1240143,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC-33",COSS1303901,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC-366",COSS1240144,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC-44",COSS1240145,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC-56",COSS1290907,"
+              Large intestine (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC-78",COSS1290908,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC-827",COSS1240146,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC1143",COSS749710,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC1187",COSS749711,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC1395",COSS749712,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC1419",COSS907045,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC1428",COSS1290905,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC1500",COSS1303900,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC1569",COSS907046,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC1599",COSS749713,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC1806",COSS907047,"
+              Breast (Carcinoma; Ductal carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC1937",COSS749714,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC1954",COSS749709,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC202",COSS1290906,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC2157",COSS749715,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC2218",COSS749716,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC2998",COSS905971,"
+              Large intestine; Colon (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCC38",COSS749717,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HCC70",COSS907048,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCE-4",COSS753559,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCT-116",COSS905936,"
+              Large intestine; Colon (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HCT-15",COSS905937,"
+              Large intestine; Colon (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HD-MY-Z",COSS907050,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Hodgkin lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                HDLM-2",COSS924110,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Hodgkin lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                HDQ-P1",COSS1290922,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HEC-1",COSS907051,"
+              Endometrium (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HEL",COSS907053,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M6)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HGC-27",COSS907055,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HH",COSS907056,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Adult T cell lymphoma-leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HL-60",COSS905938,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M3)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HLE",COSS907057,"
+              Liver (Carcinoma; Hepatocellular carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HMV-II",COSS907058,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HN",COSS907059,"
+              Upper aerodigestive tract; Mouth; Mouth roof (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                HO-1-N-1",COSS924111,"
+              Salivary gland; Buccal mucosa (Carcinoma; Mucoepidermoid carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HO-1-u-1",COSS753561,"
+              Upper aerodigestive tract; Head neck (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HOP-62",COSS905972,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HOP-92",COSS905973,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HOS",COSS907060,"
+              Bone (Osteosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HPAC",COSS1298136,"
+              Pancreas (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HPAF-II",COSS724869,"
+              Pancreas (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                HSC-2",COSS753562,"
+              Upper aerodigestive tract; Head neck (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HSC-3",COSS907061,"
+              Upper aerodigestive tract; Mouth; Tongue (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HSC-39",COSS1322224,"
+              Stomach (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HSC-4",COSS907062,"
+              Upper aerodigestive tract; Mouth; Tongue (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT",COSS907063,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                HT-1080",COSS907064,"
+              Soft tissue; Fibrous tissue and uncertain origin (Fibrosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT-115",COSS907289,"
+              Large intestine; Colon (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT-1197",COSS907065,"
+              Urinary tract; Bladder (Carcinoma; Transitional cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT-1376",COSS907066,"
+              Urinary tract; Bladder (Carcinoma; Transitional cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT-144",COSS907067,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT-29",COSS905939,"
+              Large intestine; Colon (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT-3",COSS907068,"
+              Cervix (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HT55",COSS907287,"
+              Large intestine; Colon (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HTC-C3",COSS924151,"
+              Thyroid (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HUH-6-clone5",COSS907070,"
+              Liver (Carcinoma; Hepatocellular carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HUTU-80",COSS907073,"
+              Small intestine; Duodenum (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HeLa",COSS1298134,"
+              Cervix (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hep_3B2_1-7",COSS1240147,"
+              NS (NS)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hey",COSS1479988,"
+              Ovary (Carcinoma; Serous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hs-445",COSS1322218,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Hodgkin lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hs-578-T",COSS905957,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                Hs633T",COSS1240149,"
+              Soft tissue; Fibrous tissue and uncertain origin (Fibrosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",NS,NS,NS
+"
+                Hs683",COSS1240150,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hs746T",COSS1240151,"
+              Stomach (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hs766T",COSS1298141,"
+              Pancreas (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hs939-T",COSS1298144,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                Hs940-T",COSS1298145,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                HuCCT1",COSS907069,"
+              Biliary tract; Bile duct (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HuH-7",COSS907071,"
+              Liver (Carcinoma; Hepatocellular carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HuO-3N1",COSS909977,"
+              Bone (Osteosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HuO9",COSS907072,"
+              Bone; Femur (Osteosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                HuP-T3",COSS907285,"
+              Pancreas (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                HuP-T4",COSS907286,"
+              Pancreas (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                IA-LM",COSS910779,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                IGR-1",COSS907169,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                IGR-37",COSS1240153,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                IGROV-1",COSS905968,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                IHH-4",COSS1240154,"
+              Thyroid (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                IM-9",COSS753563,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                IM-95",COSS1240155,"
+              Stomach (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                IMR-5",COSS907170,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                IPC-298",COSS907171,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                IST-MEL1",COSS907172,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                IST-MES1",COSS907173,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                IST-SL1",COSS753564,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                IST-SL2",COSS753565,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                huH-1",COSS1298146,"
+              Liver (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                J82",COSS753566,"
+              Urinary tract; Bladder (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JAR",COSS907175,"
+              Placenta (Choriocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                JEG-3",COSS907176,"
+              Placenta (Choriocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                JEKO-1",COSS1327765,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHH-1",COSS1298151,"
+              Liver (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHH-2",COSS1240157,"
+              Liver (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHH-4",COSS1240158,"
+              Liver (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHH-6",COSS1240159,"
+              Liver (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHH-7",COSS1240160,"
+              Liver (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHOS-2",COSS1479995,"
+              Ovary (Carcinoma; Serous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHOS-3",COSS1480358,"
+              Ovary (Carcinoma; Serous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHOS-4",COSS1480359,"
+              Ovary (Carcinoma; Serous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHU-011",COSS1240161,"
+              Upper aerodigestive tract; Head neck (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHU-022",COSS1240162,"
+              Upper aerodigestive tract; Head neck (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JHU-029",COSS1298156,"
+              Upper aerodigestive tract; Head neck (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JIMT-1",COSS1298157,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JJN-3",COSS1327766,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JM1",COSS1327768,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JSC-1",COSS1327769,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JURL-MK1",COSS1327771,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Chronic myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                JVM-2",COSS907269,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Chronic lymphocytic leukaemia-small lymphocytic lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                JVM-3",COSS907270,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Chronic lymphocytic leukaemia-small lymphocytic lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                JiyoyeP-2003",COSS907268,"
+              Haematopoietic and lymphoid; Liver (Lymphoid neoplasm; Burkitt lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                Jurkat",COSS998184,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                K-562",COSS905940,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Chronic myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                K2",COSS1298160,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                K5",COSS924238,"
+              Thyroid (Carcinoma; Follicular carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KALS-1",COSS907271,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KARPAS-1106P",COSS1327773,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KARPAS-231",COSS1327774,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic B cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KARPAS-299",COSS907273,"
+              Haematopoietic and lymphoid; Skin (Lymphoid neoplasm; Anaplastic large cell lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KARPAS-422",COSS907274,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Diffuse large B cell lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                KARPAS-45",COSS907272,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KARPAS-620",COSS1327775,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KASUMI-1",COSS907275,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M2)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KATOIII",COSS907276,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                KCL-22",COSS1330931,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Chronic myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KE-37",COSS907277,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KELLY",COSS753618,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KG-1",COSS907278,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M6)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KGN",COSS924186,"
+              Ovary (Sex cord-stromal tumour; Granulosa cell tumour)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KINGS-1",COSS907279,"
+              Central nervous system; Brain (Glioma; Astrocytoma Grade III; Anaplastic)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KLE",COSS924187,"
+              Endometrium (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KM-H2",COSS909976,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Hodgkin lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                KM12",COSS905989,"
+              Large intestine; Colon (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KMH-2",COSS1298167,"
+              Thyroid (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KMOE-2",COSS907280,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M6)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KMRC-1",COSS1298168,"
+              Kidney (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KMRC-20",COSS1298169,"
+              Kidney (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KMS-11",COSS1659817,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KMS-12-BM",COSS907281,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KNS-42",COSS907282,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KNS-62",COSS753569,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KNS-81-FD",COSS924188,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KO52",COSS1330932,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KON",COSS1298215,"
+              Upper aerodigestive tract; Head neck (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KOPN-8",COSS1330933,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic B cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KOSC-2",COSS753570,"
+              Upper aerodigestive tract; Head neck (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KP-1N",COSS1298216,"
+              Pancreas (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KP-2",COSS1298218,"
+              Pancreas (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KP-3",COSS1298219,"
+              Pancreas (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KP-4",COSS753572,"
+              Pancreas (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                KP-N-RT-BM-1",COSS924189,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                KP-N-YN",COSS907314,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KP-N-YS",COSS946363,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KS-1",COSS907313,"
+              Central nervous system; Brain (Glioma; Astrocytoma Grade IV; Glioblastoma multiforme)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KU-19-19",COSS907312,"
+              Urinary tract; Bladder (Carcinoma; Transitional cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KU812",COSS907311,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Chronic myeloid leukaemia; Ph positive)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KURAMOCHI",COSS909975,"
+              Ovary (Carcinoma; Undifferentiated carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KY821",COSS907300,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute leukaemia of ambiguous lineage)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYAE-1",COSS1503368,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KYM-1",COSS1240166,"
+              Soft tissue; Striated muscle (Rhabdomyosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KYSE-140",COSS753573,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-150",COSS907317,"
+              Oesophagus; Upper third (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-180",COSS907318,"
+              Oesophagus; Middle third (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-220",COSS1240167,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KYSE-270",COSS907319,"
+              Oesophagus; Middle third (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-410",COSS753574,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-450",COSS907320,"
+              Oesophagus; Middle third (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-50",COSS1298222,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                KYSE-510",COSS907321,"
+              Oesophagus; Upper third (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-520",COSS753575,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                KYSE-70",COSS753576,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                L-1236",COSS1330935,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Hodgkin lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                L-363",COSS924239,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                L-428",COSS907322,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Hodgkin lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                L-540",COSS907323,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Hodgkin lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LAMA-84",COSS907783,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Blast phase chronic myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LAN-6",COSS949170,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                LB1047-RCC",COSS753577,"
+              Kidney (Carcinoma; Clear cell renal cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LB2241-RCC",COSS753578,"
+              Kidney (Carcinoma; Clear cell renal cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LB2518-MEL",COSS753579,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LB373-MEL-D",COSS753581,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LB647-SCLC",COSS753582,"
+              Lung (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LB771-HNC",COSS753583,"
+              Upper aerodigestive tract; Head neck (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LB831-BLC",COSS753584,"
+              Urinary tract; Bladder (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LB996-RCC",COSS753585,"
+              Kidney (Carcinoma; Clear cell renal cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LC-1-sq",COSS1298223,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                LC-2-ad",COSS907786,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LC4-1",COSS907787,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LCLC-103H",COSS753586,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LCLC-97TM1",COSS946361,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LIM1215",COSS2162949,"
+              Large intestine; Colon (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LK-2",COSS687787,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LN-18",COSS1240168,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                LN-229",COSS1240169,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                LN-405",COSS910694,"
+              Central nervous system; Brain (Glioma; Astrocytoma Grade IV; Glioblastoma multiforme)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LNCaP-Clone-FGC",COSS907788,"
+              Prostate (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                LNZTA3WT4",COSS1240170,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                LOU-NH91",COSS1298226,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                LOUCY",COSS907789,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic T cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LOXIMVI",COSS905974,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LP-1",COSS907791,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LS-1034",COSS917486,"
+              Large intestine (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LS-123",COSS907792,"
+              Large intestine; Colon (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LS-180",COSS998189,"
+              Large intestine (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                LS-411N",COSS907794,"
+              Large intestine; Caecum (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LS-513",COSS907795,"
+              Large intestine; Caecum (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LU-134-A",COSS753588,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LU-135",COSS713899,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LU-139",COSS713878,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LU-165",COSS753589,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                LU-65",COSS724863,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LU-99A",COSS907796,"
+              Lung (Carcinoma; Giant cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LXF-289",COSS753592,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                LoVo",COSS907790,"
+              Large intestine; Colon (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                M059J",COSS949094,"
+              Central nervous system; Brain (Glioma; Astrocytoma Grade IV; Glioblastoma multiforme)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                M14",COSS905975,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MC-1010",COSS907798,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M5)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MC-CAR",COSS683665,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MC-IXC",COSS908118,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MC116",COSS907799,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MCC13",COSS1333003,"
+              Skin (Carcinoma; Merkel cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MCC26",COSS1298234,"
+              Skin (Carcinoma; Merkel cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MCF7",COSS905946,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MDA-MB-157",COSS925338,"
+              Breast (Carcinoma; Ductal carcinoma; Medullary)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MDA-MB-175-VII",COSS908120,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MDA-MB-231",COSS905960,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MDA-MB-330",COSS1330941,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MDA-MB-361",COSS908121,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MDA-MB-415",COSS924240,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MDA-MB-436",COSS1240172,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MDA-MB-453",COSS908122,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MDA-MB-468",COSS908123,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MDST8",COSS1240173,"
+              Large intestine (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                ME-1",COSS1330942,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                ME-180",COSS687514,"
+              Cervix (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MEG-01",COSS908126,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Blast phase chronic myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MEL-HO",COSS908124,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MEL-JUSO",COSS908125,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MES-SA",COSS908127,"
+              Soft tissue; Fibrous tissue and uncertain origin; Uterus (Sarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MFE-280",COSS908129,"
+              Endometrium (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,recurrent,cell-line
+"
+                MFE-296",COSS908130,"
+              Endometrium (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MFE-319",COSS1240174,"
+              Endometrium (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MFH-ino",COSS925343,"
+              Soft tissue; Fibrous tissue and uncertain origin (Malignant fibrous histiocytoma-pleomorphic sarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MFM-223",COSS910948,"
+              Breast (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MG-63",COSS908131,"
+              Bone (Osteosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MHH-CALL-2",COSS908132,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic B cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MHH-CALL-4",COSS908133,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic B cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MHH-ES-1",COSS908134,"
+              Bone; Pelvis (Ewing sarcoma-peripheral primitive neuroectodermal tumour)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MHH-NB-11",COSS908135,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MHH-PREB-1",COSS908136,"
+              Haematopoietic and lymphoid; Lymph node (Lymphoid neoplasm; Acute lymphoblastic B cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MIA-PaCa-2",COSS724870,"
+              Pancreas (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MKN1",COSS908138,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MKN28",COSS908139,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MKN45",COSS925340,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MKN7",COSS924250,"
+              Stomach (Carcinoma; Tubular adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                ML-1",COSS1240178,"
+              Thyroid (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                ML-2",COSS908141,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M4)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MLMA",COSS908142,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Hairy cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MM1S",COSS1659818,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MMAC-SF",COSS925339,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MN-60",COSS908143,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic B cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MOG-G-CCM",COSS908144,"
+              Central nervous system; Brain (Glioma; Astrocytoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MOG-G-UVW",COSS908145,"
+              Central nervous system; Brain (Glioma; Astrocytoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MOLM-13",COSS1330947,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MOLM-16",COSS1330948,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MOLP-8",COSS1330950,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MOLT-13",COSS908146,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic T cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MOLT-16",COSS908147,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic T cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MOLT-4",COSS905958,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MONO-MAC-6",COSS908148,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M5)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MPP-89",COSS908150,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                MRK-nu-1",COSS908151,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MS-1",COSS753594,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MS751",COSS1240179,"
+              Cervix (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MSTO-211H",COSS908152,"
+              Pleura (Mesothelioma; Biphasic)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MV-4-11",COSS908156,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute leukaemia of ambiguous lineage)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MY-M12",COSS1330960,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute leukaemia of ambiguous lineage)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MZ1-PC",COSS753595,"
+              Pancreas (Carcinoma; Ductal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                MZ2-MEL",COSS971777,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                MZ7-mel",COSS753596,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                Mewo",COSS908128,"
+              Skin (Malignant melanoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                Mo-T",COSS908149,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Hairy cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NALM-6",COSS908158,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Acute lymphoblastic B cell leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NAMALWA",COSS908159,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Burkitt lymphoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NB(TU)1-10",COSS1240181,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NB-4",COSS1323913,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M3)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NB1",COSS949179,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NB10",COSS949171,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NB12",COSS949172,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NB13",COSS949177,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NB14",COSS949178,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NB17",COSS949175,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NB5",COSS949176,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NB6",COSS949173,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NB69",COSS908440,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NB7",COSS949174,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NBsusSR",COSS925342,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCC010",COSS1509073,"
+              Kidney (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCC021",COSS1509074,"
+              Kidney (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCCIT",COSS908441,"
+              Testis (Germ cell tumour; Mixed; Teratocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1048",COSS687995,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1092",COSS687997,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1105",COSS908468,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1155",COSS908467,"
+              Lung (Carcinoma; Small cell carcinoma; Large cell variant)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H128",COSS753597,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1299",COSS724831,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1304",COSS753599,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1341",COSS1330964,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1355",COSS724866,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1395",COSS684681,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1417",COSS688001,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1435",COSS1298347,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1436",COSS908469,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1437",COSS687794,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H146",COSS910899,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1563",COSS753600,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1568",COSS1298348,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1573",COSS908472,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1581",COSS908471,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1623",COSS687798,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1648",COSS687799,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1650",COSS687800,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1651",COSS910900,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1666",COSS908473,"
+              Lung (Carcinoma; Bronchioloalveolar adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1688",COSS1298349,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1693",COSS687802,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1694",COSS688006,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1703",COSS908474,"
+              Lung (Carcinoma; Mixed adenosquamous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1734",COSS722058,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1755",COSS908475,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1770",COSS687804,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1781",COSS1298350,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1792",COSS724868,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1793",COSS908463,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1836",COSS1240182,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1838",COSS687807,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1869",COSS1240183,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H187",COSS688007,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H1876",COSS1330972,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1915",COSS1240184,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1944",COSS1240185,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H196",COSS1240186,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H1963",COSS688010,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1975",COSS924244,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H1993",COSS908476,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2009",COSS724873,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2023",COSS1240187,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2029",COSS688011,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2030",COSS722045,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2052",COSS688058,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2066",COSS1330973,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2081",COSS908480,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2085",COSS687812,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2087",COSS724834,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H209",COSS688013,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H211",COSS1240189,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2110",COSS1298351,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2122",COSS722046,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2126",COSS687814,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2135",COSS1298352,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2141",COSS688014,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2170",COSS687815,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H2171",COSS688015,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H2172",COSS1298353,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2196",COSS908481,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2227",COSS688018,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H2228",COSS687816,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H226",COSS905941,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H2291",COSS724874,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H23",COSS905942,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H2342",COSS687819,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H2347",COSS687820,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H2405",COSS687821,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H2444",COSS1298356,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H2452",COSS908462,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H250",COSS924241,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H28",COSS908470,"
+              Pleura (Mesothelioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H292",COSS753604,"
+              Lung (Carcinoma; Mucoepidermoid carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H3122",COSS1240190,"
+              Lung (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H322M",COSS905967,"
+              Lung (Carcinoma; Bronchioloalveolar adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H345",COSS688021,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H358",COSS908465,"
+              Lung (Carcinoma; Bronchioloalveolar adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H378",COSS688022,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H441",COSS908460,"
+              Lung (Carcinoma; Bronchioloalveolar adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H446",COSS688023,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H460",COSS905943,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H508",COSS908442,"
+              Large intestine; Caecum (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H510A",COSS753605,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H520",COSS908443,"
+              Lung (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H522",COSS905944,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H524",COSS908483,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H526",COSS688025,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H596",COSS908459,"
+              Lung (Carcinoma; Mixed adenosquamous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H630",COSS908482,"
+              Large intestine; Rectum (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H64",COSS688026,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H647",COSS1240191,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H650",COSS722066,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H660",COSS1330975,"
+              Prostate (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H661",COSS687829,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H69",COSS688027,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H716",COSS908458,"
+              Large intestine; Colon (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H720",COSS687600,"
+              Lung (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H727",COSS724855,"
+              Lung (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H740",COSS1331055,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H747",COSS908457,"
+              Large intestine; Caecum (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H748",COSS909194,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H810",COSS925341,"
+              Lung (Carcinoma; Large cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H82",COSS688031,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-H835",COSS753607,"
+              Lung (Carcinoid-endocrine tumour)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H838",COSS910399,"
+              Lung (Carcinoma; Non small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-H841",COSS1240192,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H847",COSS1240193,"
+              Lung (Carcinoma; Small cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-H929",COSS724825,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NCI-N87",COSS908461,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-SNU-1",COSS908444,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NCI-SNU-16",COSS908446,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NCI-SNU-5",COSS908445,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NEC8",COSS910942,"
+              Testis (Germ cell tumour; Embryonal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NH-12",COSS908447,"
+              Autonomic ganglia (Neuroblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NK-92MI",COSS1330981,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NKM-1",COSS908448,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NMC-G1",COSS908449,"
+              Central nervous system; Brain (Glioma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NOMO-1",COSS908451,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M5)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NOS-1",COSS925345,"
+              Bone (Osteosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NTERA-2_cl_D1",COSS908454,"
+              Testis (Germ cell tumour; Embryonal carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                NU-DUL-1",COSS1330982,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NUGC-3",COSS908455,"
+              Stomach (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                NUGC-4",COSS1298357,"
+              Stomach (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                NY",COSS910849,"
+              Bone (Osteosarcoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OACM5-1",COSS1503363,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OACp4C",COSS1503362,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OAW-28",COSS946360,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OAW-42",COSS910548,"
+              Ovary (Carcinoma; Mucinous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OC-314",COSS909257,"
+              Ovary (Carcinoma; Serous micropapillary carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                OCI-AML2",COSS910947,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia; M4)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OCI-AML3",COSS1290455,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OCI-AML5",COSS1330983,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OCI-LY-19",COSS1330984,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OCI-LY7",COSS1659819,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; B cell lymphoma unspecified)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OCI-M1",COSS1330985,"
+              Haematopoietic and lymphoid (Haematopoietic neoplasm; Acute myeloid leukaemia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OCUB-M",COSS909256,"
+              Breast (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,metastasis,cell-line
+"
+                OCUM-1",COSS1298358,"
+              Stomach (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OE19",COSS910079,"
+              Oesophagus; Lower third (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OE21",COSS1298359,"
+              Oesophagus (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OE33",COSS910549,"
+              Oesophagus; Lower third (Other; Metaplasia)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OMC-1",COSS949154,"
+              Cervix (Carcinoma; Squamous cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                ONS-76",COSS909248,"
+              Central nervous system; Brain (Primitive neuroectodermal tumour-medulloblastoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OPM-2",COSS909249,"
+              Haematopoietic and lymphoid (Lymphoid neoplasm; Plasma cell myeloma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OS-RC-2",COSS909250,"
+              Kidney (Carcinoma; Renal cell carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OSC-19",COSS1298362,"
+              Upper aerodigestive tract; Head neck (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OSC-20",COSS1240196,"
+              Upper aerodigestive tract; Head neck (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OV-17R",COSS1480361,"
+              Ovary (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OV-56",COSS1480362,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OV-7",COSS1480360,"
+              Ovary (Carcinoma; Mixed carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OV-90",COSS1240197,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OVCA420",COSS1480364,"
+              Ovary (Carcinoma; Serous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OVCA433",COSS1480367,"
+              Ovary (Carcinoma; Serous carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OVCAR-3",COSS905933,"
+              Ovary (Carcinoma; Adenocarcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OVCAR-4",COSS905990,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OVCAR-5",COSS905969,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OVCAR-8",COSS905991,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                OVISE",COSS1240198,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OVK-18",COSS1480371,"
+              Ovary (Carcinoma; Endometrioid carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OVKATE",COSS1240199,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OVMIU",COSS1240200,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                OVTOKO",COSS1298365,"
+              Ovary (Carcinoma)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,NS,cell-line
+"
+                no-10",COSS908452,"
+              Central nervous system; Brain (Glioma; Astrocytoma Grade III; Anaplastic)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
+"
+                no-11",COSS908450,"
+              Central nervous system; Brain (Glioma; Astrocytoma Grade III; Anaplastic)
+              View this tissue/histology in the Cancer Browser
+            ","
+              Whole exome screening
+            ",Cultured Sample,primary,cell-line
