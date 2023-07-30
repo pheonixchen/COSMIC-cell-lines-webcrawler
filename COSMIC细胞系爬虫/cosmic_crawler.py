@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 import numpy as np
 import os
-os.chdir("C:\\Users\\杨谷婴\\Desktop\\陈帅宇临时工作\\爬虫")
+os.chdir("C:\\Users\\XXX\\Desktop\\XXX\\爬虫")
 cwd = os.getcwd()
 print(cwd)
 url='https://cancer.sanger.ac.uk/cell_lines/cbrowse/all'
