@@ -1,7 +1,7 @@
 import os
 import pandas as pd
-folder_path = "C:\\Users\\杨谷婴\\Desktop\\陈帅宇临时工作\\爬虫\\第一波筛选"
-os.chdir("C:\\Users\\杨谷婴\\Desktop\\陈帅宇临时工作\\爬虫\\第一波筛选")
+folder_path = "C:\\Users\\XXX\\Desktop\\XXX\\爬虫\\第一波筛选"
+os.chdir("C:\\Users\\XXX\\Desktop\\XXX\\爬虫\\第一波筛选")
 cwd = os.getcwd()
 print(cwd)
 csv_files = [file for file in os.listdir(folder_path) if file.endswith('.csv')]
