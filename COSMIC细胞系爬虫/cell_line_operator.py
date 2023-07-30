@@ -53,6 +53,3 @@ for link in links:
   i=i+1
   output_file = str(i)+"output_data.csv"
   My_df.to_csv(output_file, index=False)
-#def add_record(Sample_name,COSMIC_sample_ID,Tumour_location,Screening_method,Sample_type,Cell_line_source,Sample_source):
-  #global My_df
-  #My_df = My_df.append({'Sample_name':Sample_name, 'COSMIC_sample_ID':COSMIC_sample_ID,'Tumour_location':Tumour_location,'Screening_method':Screening_method,'Sample_type':Sample_type,'Cell_line_source':Cell_line_source,'Sample_source':Sample_source}, ignore_index=True)
